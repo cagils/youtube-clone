@@ -19,7 +19,7 @@
     "next": "12.1.4",
     "react": "18.0.0",
     "react-dom": "18.0.0",
-    "react-query": "^3.34.19",
+    "react-query": "^3.35.0",
     "tabler-icons-react": "^1.44.0"
   },
   "devDependencies": {
